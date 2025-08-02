@@ -1,0 +1,3 @@
+echo .idea/ > .gitignore
+echo *.class >> .gitignore
+echo /out/ >> .gitignore
