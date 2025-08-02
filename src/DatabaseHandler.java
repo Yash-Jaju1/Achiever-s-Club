@@ -5,8 +5,8 @@ import java.time.LocalDate;
 
 public class DatabaseHandler {
     private static final String URL = "jdbc:mysql://localhost:3306/project?useSSL=false&serverTimezone=UTC";
-    private static final String USER = "root";       // Change to your MySQL username
-    private static final String PASS = "yash2003";   // Change to your MySQL password
+    private static final String USER = "********";       // Change to your MySQL username
+    private static final String PASS = "********";   // Change to your MySQL password
 
     private Connection conn;
 
